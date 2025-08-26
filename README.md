@@ -17,4 +17,4 @@ Mediante **JavaScript** y **Phaser** se crea un **juego de tres en raya** *(tic-
 ## ▶️ Cómo ejecutar el proyecto
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/tres-en-raya.git
+   git clone https://github.com/Kiriayan/Tres-en-raya.git
